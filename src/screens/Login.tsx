@@ -28,7 +28,6 @@ const Login = ({ navigation }) => {
 
   const consumirApi = async () => {
 
-
     try {
 
 

@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "WorldPay International",
+    "slug": "worldpay",
+    "description": "React Native - WorldPay International",
+    "primaryColor": "#086634",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#086634"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.nieto1997.worldpay"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#086634"
+      },
+      "package": "com.nieto1997.worldpay",
+      "versionCode": 4
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "edd71110-1f68-48e9-8546-661079f6151d"
+      }
+    },
+    "owner": "nieto1997"
+  }
+}

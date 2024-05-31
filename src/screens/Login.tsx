@@ -26,7 +26,6 @@ const Login = ({ navigation }) => {
     navigation.navigate('Register')
   }
 
-
   const consumirApi = async () => {
 
 
